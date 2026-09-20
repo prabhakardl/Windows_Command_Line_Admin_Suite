@@ -9,6 +9,10 @@ Run:
 or:
 `Windows_Admin_Suite.bat`
 
+<img width="1353" height="1162" alt="command line all useful taks" src="https://github.com/user-attachments/assets/bef1b98b-1363-4756-b22d-fd25014cfd5e" />
+
+<img width="1011" height="717" alt="Batchscript automation" src="https://github.com/user-attachments/assets/595e75d0-dfb2-4768-8a7f-8c77d850a89f" />
+
 ## File Management
 The File Management submenu now supports:
 - Search by extension: PDF, DOCX, TXT, XLSX, CSV, etc.
